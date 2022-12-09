@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32a83266.chunk.css",
+    "main.js": "/static/js/main.44b7100a.chunk.js",
+    "main.js.map": "/static/js/main.44b7100a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aff02644.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aff02644.js.map",
+    "static/js/2.a9825e60.chunk.js": "/static/js/2.a9825e60.chunk.js",
+    "static/js/2.a9825e60.chunk.js.map": "/static/js/2.a9825e60.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.32a83266.chunk.css.map": "/static/css/main.32a83266.chunk.css.map",
+    "static/js/2.a9825e60.chunk.js.LICENSE.txt": "/static/js/2.a9825e60.chunk.js.LICENSE.txt",
+    "static/media/at.05948dde.svg": "/static/media/at.05948dde.svg",
+    "static/media/beep.689c86d7.svg": "/static/media/beep.689c86d7.svg",
+    "static/media/App.scss": "/static/media/lang.ed09d7bd.svg",
+    "static/media/ledger.e5218298.svg": "/static/media/ledger.e5218298.svg",
+    "static/media/logo.1c0045cf.svg": "/static/media/logo.1c0045cf.svg",
+    "static/media/logoSmall.ad8aa6c8.png": "/static/media/logoSmall.ad8aa6c8.png",
+    "static/media/materialdesignicons.css": "/static/media/materialdesignicons-webfont.e9db4005.woff2",
+    "static/media/phone.a3844905.png": "/static/media/phone.a3844905.png",
+    "static/media/phrase.833a1ec5.svg": "/static/media/phrase.833a1ec5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aff02644.js",
+    "static/js/2.a9825e60.chunk.js",
+    "static/css/main.32a83266.chunk.css",
+    "static/js/main.44b7100a.chunk.js"
+  ]
+}
